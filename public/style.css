@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+.center{
+    display: inline-block;
+    vertical-align: center;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    color: white;   
+    background-color: green; 
+  }
